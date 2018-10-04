@@ -1,0 +1,16 @@
+img {
+  position: absolute;
+  top:0;
+  left:0;
+  width:500px;
+  height:500px;
+}
+
+#abans {
+  opacity:1;  
+    -webkit-transition: opacity .5s ease;
+}
+
+#abans:hover {
+  opacity:0;
+}
