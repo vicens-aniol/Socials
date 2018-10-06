@@ -1,0 +1,26 @@
+body {
+margin:0;
+padding:0;
+}
+
+* {
+margin:0;
+padding:0;
+}
+
+img {
+  position: absolute;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+}
+
+#abans {
+  opacity:1;  
+    -webkit-transition: opacity .5s ease;
+}
+
+#abans:hover {
+  opacity:0;
+}
